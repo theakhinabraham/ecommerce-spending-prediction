@@ -37,8 +37,10 @@ For this project, we will utilize a dataset sourced from Kaggle, which contains 
 <br /> <br>
 
 Please note that all personal information within the dataset is fictitious and used exclusively for the purpose of this educational project.
+<br /> <br>
+## Evaluation
 
-### In evaluating the performance of our linear regression model, we obtained the following metrics:
+In evaluating the performance of our linear regression model, we obtained the following metrics:
 
 <li>Mean Absolute Error (MAE): 103.92 </li>
 <li>Mean Squared Error (MSE): 103.92 </li>
