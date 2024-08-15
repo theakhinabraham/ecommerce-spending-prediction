@@ -7,7 +7,7 @@
   <h3 align="center">Ecommerce Spending Prediction Model</h3>
 
   <p align="center">
-    🛒 
+    
   </p>
   
   <a href="#">![GitHub repo size](https://img.shields.io/github/repo-size/theakhinabraham/doable-todo-list-app)
